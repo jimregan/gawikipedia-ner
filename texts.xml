@@ -534,4 +534,52 @@ Is polaiteoir Meiriceánach é Fuaim <ne type='book'>George Walker Bush</ne> (<d
   <rel fbtype='people.person.date_of_birth' wdprop='P569' trg='6 Iúil, 1946'/>
 </rels>
 </txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=18_I%C3%BAil&amp;oldid=773044'>
+<fragment>
+D'fhoilsigh <ne type='person'>Adolf Hitler</ne> a leabhar <ne type='book'>Mein Kampf</ne>
+</fragment>
+<rels src='Mein Kampf'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Adolf Hitler'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Vicip%C3%A9id:Ailt_roghnaithe/Cartlann&amp;oldid=820838'>
+<fragment>
+d'fhógair <ne type='person'>Adolf Hitler</ne> ina leabhar <ne type='book'>Mein Kampf</ne>
+</fragment>
+<rels src='Mein Kampf'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Adolf Hitler'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Gearm%C3%A1in_na_Naitsithe&amp;oldid=772847'>
+<fragment>
+Bhí sé tugtha le fios ag <ne type='person'>Hitler</ne> ina leabhar <ne type='book'>Mein Kampf</ne>
+</fragment>
+<rels src='Mein Kampf'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Hitler'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Adolf_Hitler&amp;oldid=825713'>
+<fragment>
+<ne type='book'>Mein Kampf</ne>, an leabhar a scríobh <ne type='person'>Hitler</ne> sna 1920idí.
+</fragment>
+<rels src='Mein Kampf'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Hitler'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Nineteen_Eighty-Four&amp;oldid=756895'>
+<fragment>
+Úrscéal diostóipeach Béarla leis an scríbhneoir Sasanach <ne type='person'>George Orwell</ne> is ea é <ne type='book'>Nineteen Eighty-Four</ne>
+</fragment>
+<rels src='Nineteen Eighty-Four'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='George Orwell'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=%C3%8Domh%C3%A1:1984first.jpg&amp;oldid=437283'>
+<fragment>
+Cludach leabhair do <ne type='book'>Nineteen Eighty-Four</ne> le <ne type='person'>George Orwell</ne>
+</fragment>
+<rels src='Nineteen Eighty-Four'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='George Orwell'/>
+</rels>
+</txt>
 </texts>
