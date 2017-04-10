@@ -499,7 +499,7 @@ Scannán is ea <ne type='film'>Star Wars Episode V: The Empire Strikes Back</ne>
 </txt>
 <text src='https://ga.wikipedia.org/w/index.php?title=Jules_Verne&amp;oldid=757726'>
 <fragment>
-<prof>Scríbhneoir úrscéalta</prof> éadroma eachtránaíochta ón <ne type='place' id='1'>bhFrainc</ne> a bhí i <ne type='person'>Jules Gabriel Verne</ne> ( a tháinig chun saoil i <ne type='place' id='2'>Naoned</ne> ar <date norm='1823-02-08' id='1'>an 8 Feabhra 1828</date>, agus a fuair bás in <ne type='place' id='3'>Amiens</ne> ar <date norm='1905-03-24' id='3'>an 24 Márta 1905</date>) agus é ina cheannródaí don fhicsean eolaíochta .
+<entity type='profession'>Scríbhneoir úrscéalta</entity> éadroma eachtránaíochta ón <ne type='place'>bhFrainc</ne> a bhí i <ne type='person'>Jules Gabriel Verne</ne> ( a tháinig chun saoil i <ne type='place'>Naoned</ne> ar <date norm='1823-02-08'>an 8 Feabhra 1828</date>, agus a fuair bás in <ne type='place'>Amiens</ne> ar <date norm='1905-03-24'>an 24 Márta 1905</date>) agus é ina cheannródaí don fhicsean eolaíochta .
 </fragment>
 <rels src='Jules Gabriel Verne'>
   <rel fbtype='people.person.nationality' wdprop='P27' trg='bhFrainc' trgnorm='Frainc'/>
@@ -524,6 +524,14 @@ Teoiric imtharraingthe is ea <entity type='theory'>teoiric ghinearálta na coibh
 </fragment>
 <rels src='teoiric ghinearálta na coibhneasachta'>
   <rel wdprop='P61' trg='Albert Einstein'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=George_W._Bush&amp;oldid=816607'>
+<fragment>
+Is polaiteoir Meiriceánach é Fuaim <ne type='book'>George Walker Bush</ne> (<date norm='1946-07-06'>6 Iúil, 1946</date> a rugadh é)
+</fragment>
+<rels src='George Walker Bush'>
+  <rel fbtype='people.person.date_of_birth' wdprop='P569' trg='6 Iúil, 1946'/>
 </rels>
 </txt>
 </texts>
