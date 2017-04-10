@@ -27,6 +27,11 @@ if($ARGV[0] eq 'director') {
 	$wdprop = 'P57';
 	$neout = 'film';
 }
+if($ARGV[0] eq 'buried') {
+	$fbtype = 'people.place_of_interment.interred_here';
+	$neout = 'place';
+	$wdprop = 'P119';
+}
 
 while(<STDIN>) {
 	chomp;
