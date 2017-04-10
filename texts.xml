@@ -87,4 +87,36 @@ Scannán is ea <ne type='film'>Star Wars Episode VIII: The Last Jedi</ne> (2017)
   <rel fbtype='film.film.directed_by' wdprop='P57' trg='Rian Johnson'/>
 </rels>
 </txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Favela_(leabhar)&amp;oldid=627022'>
+<fragment>
+Foilsíodh <ne type='book'>Favela</ne>, an chéad leabhar neamhfhicsin ón iriseoir agus scríbhneoir <ne type='person'>Alex Hijmans</ne> sa bhliain 2009
+</fragment>
+<rels src='Favela'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Alex Hijmans'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=N%C3%B3ta%C3%AD_%C3%B3n_L%C3%A1r&amp;oldid=698071'>
+<fragment>
+Leabhar neamhfhicsin í <ne type='book'>Nótaí Ón Lár</ne>: Dialann Mhantach leis an úrscéalaí Éireannach <ne type='person'>Liam Mac Cóil</ne>.
+</fragment>
+<rels src='Nótaí Ón Lár'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Liam Mac Cóil'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=An_Bhliain_1912&amp;oldid=724709'>
+<fragment>
+Gearrscéal Gaeilge leis an scríbhneoir Éireannach <ne type='person'>Máirtín Ó Cadhain</ne> é "<ne type='book'>An Bhliain 1912</ne>" a foilsíodh in An Braon Broghach.
+</fragment>
+<rels src='An Bhliain 1912'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Máirtín Ó Cadhain'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=An_B%C3%B3thar_go_dt%C3%AD_an_Ghealchathair&amp;oldid=805263'>
+<fragment>
+Gearrscéal Gaeilge leis an scríbhneoir Éireannach <ne type='person'>Máirtín Ó Cadhain</ne> é <ne type='book'>An Bóthar go dtí an Ghealchathair</ne> a foilsíodh in An Braon Broghach.
+</fragment>
+<rels src='An Bóthar go dtí an Ghealchathair'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Máirtín Ó Cadhain'/>
+</rels>
+</txt>
 </texts>
