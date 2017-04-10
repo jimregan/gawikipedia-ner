@@ -32,6 +32,11 @@ if($ARGV[0] eq 'buried') {
 	$neout = 'place';
 	$wdprop = 'P119';
 }
+if($ARGV[0] eq 'involved') {
+	$fbtype = 'time.event.people_involved';
+	$neout = 'event';
+	$wdprop = 'P710';
+}
 
 while(<STDIN>) {
 	chomp;

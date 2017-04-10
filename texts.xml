@@ -590,4 +590,12 @@ Uaigh <ne type='person'>Maud Gonne MacBride</ne> i <ne type='place'>Reilig Ghlas
   <rel fbtype='people.place_of_interment.interred_here' wdprop='P119' trg='Reilig Ghlas Naíon'/>
 </rels>
 </txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Cromail_in_%C3%89irinn_1649-1650&amp;oldid=775846'>
+<fragment>
+Faoin mbliain 1648 bhí <ne type='event'>an Chéad Chogadh Cathartha i Sasana</ne> críochnaithe agus an Pharlaimint i réim, a bhuíochas sin ar <ne type='person'>Oilibhéar Cromail</ne> agus ar cheannairí cumasacha eile.
+</fragment>
+<rels src='an Chéad Chogadh Cathartha i Sasana'>
+  <rel fbtype='time.event.people_involved' wdprop='P710' trg='Oilibhéar Cromail'/>
+</rels>
+</txt>
 </texts>
