@@ -159,4 +159,12 @@ Fuair <ne type='person'>Chester Beatty</ne> bás sa bhliain 1968, agus tá a uai
   <rel fbtype='people.place_of_interment.interred_here' wdprop='P119' trg='Reilig Ghlas Naíon'/>
 </rels>
 </txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Violet_Gibson&amp;oldid=826280'>
+<fragment>
+Tá <ne type='person'>Gibson</ne> curtha i <ne type='place'>Reilig Kingsthorpe</ne> sa chathair chéanna.
+</fragment>
+<rels src='Gibson'>
+  <rel fbtype='people.place_of_interment.interred_here' wdprop='P119' trg='Reilig Kingsthorpe'/>
+</rels>
+</txt>
 </texts>
