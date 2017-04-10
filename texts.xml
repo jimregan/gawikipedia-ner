@@ -582,4 +582,12 @@ Cludach leabhair do <ne type='book'>Nineteen Eighty-Four</ne> le <ne type='perso
   <rel fbtype='book.written_work.author' wdprop='P50' trg='George Orwell'/>
 </rels>
 </txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Maud_Gonne&amp;oldid=791559'>
+<fragment>
+Uaigh <ne type='person'>Maud Gonne MacBride</ne> i <ne type='place'>Reilig Ghlas Naíon</ne>.
+</fragment>
+<rels src='Maud Gonne MacBride'>
+  <rel fbtype='people.place_of_interment.interred_here' wdprop='P119' trg='Reilig Ghlas Naíon'/>
+</rels>
+</txt>
 </texts>
