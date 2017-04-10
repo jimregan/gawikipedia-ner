@@ -510,4 +510,20 @@ Scannán is ea <ne type='film'>Star Wars Episode V: The Empire Strikes Back</ne>
   <ref fbtype='people.deceased_person.place_of_death' wdprop='P20' trg='Amiens' />
 </rels>
 </text>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Sciorr%C3%A1rthach&amp;oldid=803551'>
+<fragment>
+Is feithicil mara a ardaítear ar adhartán aeir é <entity type='invention'>Sciorrárthach</entity>. Molta ag <ne type='person'>Christopher Cockerell</ne> i 1950
+</fragment>
+<rels src='Sciorrárthach'>
+  <rel wdprop='P61' trg='Christopher Cockerell'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Teoiric_ghinear%C3%A1lta_na_coibhneasachta&amp;oldid=814650'>
+<fragment>
+Teoiric imtharraingthe is ea <entity type='theory'>teoiric ghinearálta na coibhneasachta</entity>. Chum <ne type='person'>Albert Einstein</ne> í
+</fragment>
+<rels src='teoiric ghinearálta na coibhneasachta'>
+  <rel wdprop='P61' trg='Albert Einstein'/>
+</rels>
+</txt>
 </texts>
