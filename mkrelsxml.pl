@@ -51,6 +51,7 @@ while(<STDIN>) {
 		$url =~ s/\&/&amp;/g;
 		$text =~ s!$pers!<ne type='person'>$pers</ne>!;
 		$text =~ s!$book!<ne type='$neout'>$book</ne>!;
+		$book =~ s/'/&apos;/g;
 print <<__END__;
 <txt src='$url'>
 <fragment>
