@@ -471,4 +471,12 @@ D'fhoilsigh <ne type='person'>Isaac Newton</ne> i 1687 a chuid fionnachtana i bh
   <rel fbtype='book.written_work.author' wdprop='P50' trg='Isaac Newton'/>
 </rels>
 </txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Rogue_One&amp;oldid=826037'>
+<fragment>
+Scannán is ea <ne type='film'>Rogue One: A Star Wars Story</ne> (2016). Is é <ne type='person'>Gareth Edwards</ne> stiúrthóir an scannáin.
+</fragment>
+<rels src='Rogue One: A Star Wars Story'>
+  <rel fbtype='film.film.directed_by' wdprop='P57' trg='Gareth Edwards'/>
+</rels>
+</txt>
 </texts>
