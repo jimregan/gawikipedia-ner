@@ -479,4 +479,22 @@ Scannán is ea <ne type='film'>Rogue One: A Star Wars Story</ne> (2016). Is é <
   <rel fbtype='film.film.directed_by' wdprop='P57' trg='Gareth Edwards'/>
 </rels>
 </txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Star_Wars_Episode_I:_The_Phantom_Menace&amp;oldid=822115'>
+<fragment>
+Scannán is ea <ne type='film'>Star Wars Episode IV: The Phantom Menace</ne> (1999). Is é <ne type='person'>George Lucas</ne> stiúrthóir agus scríbhneoir na scannán.
+</fragment>
+<rels src='Star Wars Episode IV: The Phantom Menace'>
+  <rel fbtype='film.film.directed_by' wdprop='P57' trg='George Lucas'/>
+  <rel fbtype='film.film.written_by' wdprop='P58' trg='George Lucas'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Star_Wars_Episode_V:_The_Empire_Strikes_Back&amp;oldid=822112'>
+<fragment>
+Scannán is ea <ne type='film'>Star Wars Episode V: The Empire Strikes Back</ne> (1980). Is é <ne type='person'>Irvin Kershner</ne> stiúrthóir agus <ne type='person'>George Lucas</ne> scríbhneoir na scannán.
+</fragment>
+<rels src='Star Wars Episode V: The Empire Strikes Back'>
+  <rel fbtype='film.film.directed_by' wdprop='P57' trg='Irvin Kershner'/>
+  <rel fbtype='film.film.written_by' wdprop='P58' trg='George Lucas'/>
+</rels>
+</txt>
 </texts>
