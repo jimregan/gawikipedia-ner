@@ -143,4 +143,20 @@ Is scannán é <ne type='film'>Batman Begins</ne> atá bunaithe ar an comic le <
   <rel fbtype='film.film.directed_by' wdprop='P57' trg='Christopher Nolan'/>
 </rels>
 </txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Marie_d%27Agoult&amp;oldid=816011'>
+<fragment>
+Cuireadh <ne type='person'>Marie d'Agoult</ne> i <ne type='place'>Reilig Père-Lachaise</ne> i bPáras.
+</fragment>
+<rels src='Marie d&apos;Agoult'>
+  <rel fbtype='people.place_of_interment.interred_here' wdprop='P119' trg='Reilig Père-Lachaise'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Alfred_Chester_Beatty&amp;oldid=796667'>
+<fragment>
+Fuair <ne type='person'>Chester Beatty</ne> bás sa bhliain 1968, agus tá a uaigh suite i <ne type='place'>Reilig Ghlas Naíon</ne>.
+</fragment>
+<rels src='Chester Beatty'>
+  <rel fbtype='people.place_of_interment.interred_here' wdprop='P119' trg='Reilig Ghlas Naíon'/>
+</rels>
+</txt>
 </texts>
