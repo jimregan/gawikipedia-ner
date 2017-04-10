@@ -167,4 +167,68 @@ Tá <ne type='person'>Gibson</ne> curtha i <ne type='place'>Reilig Kingsthorpe</
   <rel fbtype='people.place_of_interment.interred_here' wdprop='P119' trg='Reilig Kingsthorpe'/>
 </rels>
 </txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=An_Gheis&amp;oldid=717734'>
+<fragment>
+Gearrscéal Gaeilge leis an scríbhneoir Éireannach <ne type='person'>Máirtín Ó Cadhain</ne> é <ne type='book'>An Gheis</ne> a foilsíodh sa chnuasach An Braon Broghach sa bhliain 1948.
+</fragment>
+<rels src='An Gheis'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Máirtín Ó Cadhain'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Beirt_Eile&amp;oldid=582419'>
+<fragment>
+Gearrscéal Gaeilge leis an scríbhneoir Éireannach <ne type='person'>Máirtín Ó Cadhain</ne> é <ne type='book'>Beirt Eile</ne> a foilsíodh in An tSraith ar Lár a foilsíodh ag Sáirséal agus Dill sa bhliain 1967 .
+</fragment>
+<rels src='Beirt Eile'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Máirtín Ó Cadhain'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=An_Bhearna_Mh%C3%ADl&amp;oldid=717501'>
+<fragment>
+Gearrscéal Gaeilge leis an scríbhneoir Éireannach <ne type='person'>Máirtín Ó Cadhain</ne> é <ne type='book'>An Bhearna Mhíl</ne> a foilsíodh in An Braon Broghach.
+</fragment>
+<rels src='An Bhearna Mhíl'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Máirtín Ó Cadhain'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Ding_(gearrsc%C3%A9al)&amp;oldid=749191'>
+<fragment>
+Gearrscéal leis an scríbhneoir Éireannach Seán Mac Mathúna é "<ne type='book'>Ding</ne>" a foilsíodh ag An Comhlucht Oideachais
+</fragment>
+<rels src='Ding'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Máirtín Ó Cadhain'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=An_Taoille_Tuile&amp;oldid=717985'>
+<fragment>
+Gearrscéal Gaeilge leis an scríbhneoir Éireannach <ne type='person'>Máirtín Ó Cadhain</ne> é <ne type='book'>An Taoille Tuile</ne> a foilsíodh in An Braon Broghach.
+</fragment>
+<rels src='An Taoille Tuile'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Máirtín Ó Cadhain'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Tn%C3%BAth%C3%A1n_an_D%C3%BAchais&amp;oldid=699288'>
+<fragment>
+Gearrscéal Gaeilge leis an scríbhneoir Éireannach <ne type='person'>Máirtín Ó Cadhain</ne> é <ne type='book'>Tnúthán an Dúchais</ne> a foilsíodh in An Braon Broghach (Cnuasach Gearrscéalta).
+</fragment>
+<rels src='Tnúthán an Dúchais'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Máirtín Ó Cadhain'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Angela%27s_Ashes&amp;oldid=694413'>
+<fragment>
+Is leabhar Béarla leis an údar Éireannach <ne type='person'>Frank McCourt</ne> é <ne type='book'>Angela's Ashes</ne> 
+</fragment>
+<rels src='Angela&apos;s Ashes'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Frank McCourt'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Deireadh_Seachtaine_Craice%C3%A1ilte&amp;oldid=513297'>
+<fragment>
+Scríobh <ne type='person'>Roddy Doyle</ne> an scéal <ne type='book'>Deireadh Seachtaine Craiceáilte</ne>.
+</fragment>
+<rels src='Deireadh Seachtaine Craiceáilte'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Roddy Doyle'/>
+</rels>
+</txt>
 </texts>
