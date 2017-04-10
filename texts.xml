@@ -231,4 +231,244 @@ Scríobh <ne type='person'>Roddy Doyle</ne> an scéal <ne type='book'>Deireadh S
   <rel fbtype='book.written_work.author' wdprop='P50' trg='Roddy Doyle'/>
 </rels>
 </txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Dubliners&amp;oldid=651854'>
+<fragment>
+Bailiúchán gearrscéalta a scríobh <ne type='person'>James Joyce</ne> sa bhliain 1914 is ea <ne type='book'>Dubliners</ne>
+</fragment>
+<rels src='Dubliners'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='James Joyce'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=An_tOile%C3%A1nach&amp;oldid=718059'>
+<fragment>
+Leabhar Gaeilge ó pheann an scríbhneora <ne type='person'>Tomás Ó Criomhthain</ne> is ea é <ne type='book'>An tOileánach</ne>,
+</fragment>
+<rels src='An tOileánach'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Tomás Ó Criomhthain'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Astron%C3%A1r&amp;oldid=557158'>
+<fragment>
+Leabhar i nGaeilge le <ne type='person'>Piaras Béaslaí</ne> is ea <ne type='book'>Astronár</ne>,
+</fragment>
+<rels src='Astronár'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Piaras Béaslaí'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Caisc%C3%ADn:_altanna_san_Irish_Times_1953/56&amp;oldid=673239'>
+<fragment>
+Is bailiúchán alt de chuid Mháirtín Uí Chadhain é <ne type='book'>Caiscín: altanna san Irish Times 1953/56</ne>.
+</fragment>
+<rels src='Caiscín: altanna san Irish Times 1953/56'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Máirtín Ó Cadhain'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Fr%C3%A9amh_an_Eolais&amp;oldid=823283'>
+<fragment>
+<ne type='book'>Fréamh an Eolais</ne> is ainm don chiclipéid eolaíochta agus teicneolaíochta a chuir an tOllamh <ne type='person'>Matthew Hussey</ne>
+</fragment>
+<rels src='Fréamh an Eolais'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Matthew Hussey'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Cois_Caol%C3%A1ire&amp;oldid=681220'>
+<fragment>
+Cnuasach gearrscéalta Gaeilge leis an scríbhneoir Éireannach <ne type='person'>Máirtín Ó Cadhain</ne> a foilsíodh ag Sáirséal Ó Marcaigh sa bhliain 1953 is ea <ne type='book'>Cois Caoláire</ne>.
+</fragment>
+<rels src='Cois Caoláire'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Máirtín Ó Cadhain'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Liosta_focal_as_Idir_Sh%C3%BAgradh_agus_D%C3%A1ir%C3%ADre&amp;oldid=452271'>
+<fragment>
+Scríobh <ne type='person'>Séamas Ó Murchú</ne> an leabhar <ne type='book'>Liosta focal as Idir Shúgradh agus Dáiríre</ne>
+</fragment>
+<rels src='Liosta focal as Idir Shúgradh agus Dáiríre'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Séamas Ó Murchú'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=D%C3%BAnmhar%C3%BA_ar_an_Dart&amp;oldid=780520'>
+<fragment>
+Is úrscéal Gaeilge simplí é <ne type='book'>Dúnmharú ar an Dart</ne> le <ne type='person'>Ruaidhrí Ó Báille</ne>
+</fragment>
+<rels src='Dúnmharú ar an Dart'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Ruaidhrí Ó Báille'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Ais%C3%A9ir%C3%AD_(leabhar)&amp;oldid=627017'>
+<fragment>
+<ne type='book'>Aiséirí</ne> an t-ainm don chéad úrscéal ó pheann <ne type='person'>Alex Hijmans</ne>,
+</fragment>
+<rels src='Aiséirí'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Alex Hijmans'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=An_Chl%C3%A1irseach_agus_an_Chor%C3%B3in&amp;oldid=813270'>
+<fragment>
+Is é an scríbhneoir Éireannach <ne type='person'>Liam Mac Cóil</ne> a scríobh an leabhar neamhfhicsin <ne type='book'>An Chláirseach agus an Choróin</ne>: Seacht gCeolsiansa Stanford
+</fragment>
+<rels src='An Chláirseach agus an Choróin'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Liam Mac Cóil'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Daniel_Deronda&amp;oldid=695749'>
+<fragment>
+Is úrscéal é <ne type='book'>Daniel Deronda</ne> a scríobh <ne type='person'>George Eliot</ne> agus a foilsíodh sa bhliain 1876.
+</fragment>
+<rels src='Daniel Deronda'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='George Eliot'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Air_Cuan_Dubh_Drilseach&amp;oldid=788092'>
+<fragment>
+Is úrscéal le <ne type='person'>Tim Armstrong</ne> é <ne type='book'>Air Cuan Dubh Drilseach</ne>
+</fragment>
+<rels src='Air Cuan Dubh Drilseach'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Tim Armstrong'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=An_R%C3%A1baire_B%C3%A1n&amp;oldid=717925'>
+<fragment>
+Úrscéal Gaeilge le <ne type='person'>Nioclás Tóibin</ne> is ea <ne type='book'>An Rábaire Bán</ne>.
+</fragment>
+<rels src='An Rábaire Bán'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Nioclás Tóibin'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Athnuachan&amp;oldid=627012'>
+<fragment>
+Úrscéal Gaeilge leis an scríbhneoir Éireannach <ne type='person'>Máirtín Ó Cadhain</ne> é <ne type='book'>Athnuachan</ne>.
+</fragment>
+<rels src='Athnuachan'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Máirtín Ó Cadhain'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Cr%C3%A9_na_Cille&amp;oldid=800665'>
+<fragment>
+Úrscéal Gaeilge leis an scríbhneoir Éireannach <ne type='person'>Máirtín Ó Cadhain</ne> é <ne type='book'>Cré na Cille</ne> nó Cré na Cille: aithris i ndeich n-eadarlúid uaireanta.
+</fragment>
+<rels src='Cré na Cille'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Máirtín Ó Cadhain'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=An_Cl%C3%A9ireach&amp;oldid=717634'>
+<fragment>
+Úrscéal leis an scríbhneoir agus drámadóir Éireannach <ne type='book'>Darach Ó Scolaí</ne> is ea <ne type='person'>An Cléireach</ne>.
+</fragment>
+<rels src='Darach Ó Scolaí'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='An Cléireach'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Mein_Kampf&amp;oldid=757128'>
+<fragment>
+Leabhar is ea <ne type='book'>Mein Kampf</ne> (Gaeilge: Mo Chath Féin) a scríobh nó a dheachtaigh <ne type='person'>Adolf Hitler</ne>,
+</fragment>
+<rels src='Mein Kampf'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Adolf Hitler'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Cuaifeach_mo_Londubh_Bu%C3%AD&amp;oldid=474570'>
+<fragment>
+Is úrscéal le <ne type='person'>Séamas Mac Annaidh</ne> é <ne type='book'>Cuaifeach mo Londubh Buí</ne>.
+</fragment>
+<rels src='Cuaifeach mo Londubh Buí'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Séamas Mac Annaidh'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Dracula&amp;oldid=824769'>
+<fragment>
+Is úrscéal Béarla é <ne type='book'>Dracula</ne> leis an údar Éireannach <ne type='person'>Bram Stoker</ne> a tháinig i gcló an chéad uair sa bhliain 1897.
+</fragment>
+<rels src='Dracula'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Bram Stoker'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Finnegans_Wake&amp;oldid=760517'>
+<fragment>
+Is úrscéal grinn turgnamhach le <ne type='person'>James Joyce</ne> é <ne type='book'>Finnegans Wake</ne> (gan uaschamóg),
+</fragment>
+<rels src='Finnegans Wake'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='James Joyce'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Fontenoy_(%C3%BArsc%C3%A9al)&amp;oldid=652780'>
+<fragment>
+Is é <ne type='book'>Fontenoy</ne> an tríú húrscéal atá foilsithe ag an scríbhneoir Éireannach <ne type='person'>Liam Mac Cóil</ne>.
+</fragment>
+<rels src='Fontenoy'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Liam Mac Cóil'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Hula_Hul&amp;oldid=486727'>
+<fragment>
+Úrscéal a foilsíodh sa bhliain 2007 leis an scríbhneoir Éireannach <ne type='person'>Seán Mac Mathúna</ne> is ea <ne type='book'>Hula Hul</ne>.
+</fragment>
+<rels src='Hula Hul'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Seán Mac Mathúna'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=The_Third_Policeman&amp;oldid=670913'>
+<fragment>
+Úrscéal Béarla a tháinig ó pheann an scríbhneora Éireannaigh <ne type='person'>Brian Ó Nualláin</ne> é <ne type='book'>The Third Policeman</ne>,
+</fragment>
+<rels src='The Third Policeman'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Brian Ó Nualláin'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Ulysses_(%C3%BArsc%C3%A9al)&amp;oldid=799205'>
+<fragment>
+Is úrscéal Béarla le <ne type='person'>James Joyce</ne> é <ne type='book'>Ulysses</ne>.
+</fragment>
+<rels src='Ulysses'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='James Joyce'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=For_Whom_the_Bell_Tolls&amp;oldid=811444'>
+<fragment>
+Úrscéal de chuid <ne type='person'>Ernest Hemingway</ne> is ea <ne type='book'>For Whom the Bell Tolls</ne>,
+</fragment>
+<rels src='For Whom the Bell Tolls'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Ernest Hemingway'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Notturno_indiano&amp;oldid=655947'>
+<fragment>
+Is úrscéal é <ne type='book'>Notturno indiano</ne> de chuid <ne type='person'>Antonio Tabucchi</ne> a foilsíodh sa bhliain 1984.
+</fragment>
+<rels src='Notturno indiano'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Antonio Tabucchi'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Oliver_Twist&amp;oldid=758072'>
+<fragment>
+Úrscéal de chuid <ne type='person'>Charles Dickens</ne> is ea <ne type='book'>Oliver Twist</ne>.
+</fragment>
+<rels src='Oliver Twist'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Charles Dickens'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Oile%C3%A1n_an_%C3%93rchiste&amp;oldid=720469'>
+<fragment>
+Úrscéal eachtraíochta leis an údar Albanach <ne type='person'>Robert Louis Stevenson</ne> is ea <ne type='book'>Oileán an Órchiste</ne>
+</fragment>
+<rels src='Oileán an Órchiste'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Robert Louis Stevenson'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Macbeth_(dr%C3%A1ma)&amp;oldid=653082'>
+<fragment>
+Is dráma traigéide leis an ndrámadóir clúiteach Sasanach, <ne type='person'>William Shakespeare</ne>, é <ne type='book'>Macbeth</ne>
+</fragment>
+<rels src='Macbeth'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='William Shakespeare'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Philosophiae_Naturalis_Principia_Mathematica&amp;oldid=759595'>
+<fragment>
+D'fhoilsigh <ne type='person'>Isaac Newton</ne> i 1687 a chuid fionnachtana i bhfisic agus calcalas i saothar faoin teideal Laidineach <ne type='book'>Philoshophiae Naturalis Principa Mathematica</ne>
+</fragment>
+<rels src='Philoshophiae Naturalis Principa Mathematica'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Isaac Newton'/>
+</rels>
+</txt>
 </texts>
