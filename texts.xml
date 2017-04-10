@@ -119,4 +119,28 @@ Gearrscéal Gaeilge leis an scríbhneoir Éireannach <ne type='person'>Máirtín
   <rel fbtype='book.written_work.author' wdprop='P50' trg='Máirtín Ó Cadhain'/>
 </rels>
 </txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Star_Wars_Episode_VII%3A_The_Force_Awakens&amp;oldid=822120'>
+<fragment>
+Scannán is ea <ne type='film'>Star Wars Episode VII: The Force Awakens</ne> (2015). Is é <ne type='person'>J. J. Abrams</ne> stiúrthóir an scannán.
+</fragment>
+<rels src='Star Wars Episode VII: The Force Awakens'>
+  <rel fbtype='film.film.directed_by' wdprop='P57' trg='J. J. Abrams'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=The_Dark_Knight_Rises&amp;oldid=792568'>
+<fragment>
+Is é <ne type='film'>The Dark Knight Rises</ne> an scannán deiridh sa tsraith Batman a stiúraigh <ne type='person'>Christopher Nolan</ne>.
+</fragment>
+<rels src='The Dark Knight Rises'>
+  <rel fbtype='film.film.directed_by' wdprop='P57' trg='Christopher Nolan'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Batman_Begins&amp;oldid=792471'>
+<fragment>
+Is scannán é <ne type='film'>Batman Begins</ne> atá bunaithe ar an comic le <ne type='person'>Bob Kane</ne> agus <ne type='person'>Bill Finger</ne>. B'é <ne type='person'>Christopher Nolan</ne> stiúrthóir an scannáin
+</fragment>
+<rels src='Batman Begins'>
+  <rel fbtype='film.film.directed_by' wdprop='P57' trg='Christopher Nolan'/>
+</rels>
+</txt>
 </texts>
