@@ -497,4 +497,17 @@ Scannán is ea <ne type='film'>Star Wars Episode V: The Empire Strikes Back</ne>
   <rel fbtype='film.film.written_by' wdprop='P58' trg='George Lucas'/>
 </rels>
 </txt>
+<text src='https://ga.wikipedia.org/w/index.php?title=Jules_Verne&amp;oldid=757726'>
+<fragment>
+<prof>Scríbhneoir úrscéalta</prof> éadroma eachtránaíochta ón <ne type='place' id='1'>bhFrainc</ne> a bhí i <ne type='person'>Jules Gabriel Verne</ne> ( a tháinig chun saoil i <ne type='place' id='2'>Naoned</ne> ar <date norm='1823-02-08' id='1'>an 8 Feabhra 1828</date>, agus a fuair bás in <ne type='place' id='3'>Amiens</ne> ar <date norm='1905-03-24' id='3'>an 24 Márta 1905</date>) agus é ina cheannródaí don fhicsean eolaíochta .
+</fragment>
+<rels src='Jules Gabriel Verne'>
+  <rel fbtype='people.person.nationality' wdprop='P27' trg='bhFrainc' trgnorm='Frainc'/>
+  <ref fbtype='people.person.place_of_birth' wdprop='P19' trg='Naoned'/>
+  <ref fbtype='people.person.date_of_birth' wdprop='P569' trg='an 8 Feabhra 1828' />
+  <ref fbtype='people.person.profession' wdprop='P106' trg='Scríbhneoir úrscéalta'/>
+  <ref fbtype='people.deceased_person.date_of_death' wdprop='P570' trg='an 24 Márta 1905' />
+  <ref fbtype='people.deceased_person.place_of_death' wdprop='P20' trg='Amiens' />
+</rels>
+</text>
 </texts>
