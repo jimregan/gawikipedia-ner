@@ -1,0 +1,90 @@
+<texts>
+<txt src='https://ga.wikipedia.org/w/index.php?title=S%C3%ADoda_%28%C3%9Arsc%C3%A9al%29&amp;oldid=659417'>
+<fragment>
+Is úrscéal é <ne type='book'>Síoda</ne> leis an scríbhneoir Iodálach <ne type='person'>Alessandro Baricco</ne>, a foilsíodh sa bhliain 1996 .
+</fragment>
+<rels src='Síoda'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Alessandro Baricco'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Inherent_Vice&amp;oldid=751885'>
+<fragment>
+Is úrscéal de chuid <ne type='person'>Thomas Pynchon</ne> é <ne type='book'>Inherent Vice</ne>
+</fragment>
+<rels src='Inherent Vice'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Thomas Pynchon'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=An_Leon%2C_an_Cailleach_agus_an_Feisteas&amp;oldid=806182'>
+<fragment>
+Is úrscéal le <ne type='person'>C. S. Lewis</ne> é <ne type='book'>an Leon, an Bandraoi agus an Prios Éadaigh</ne>.
+</fragment>
+<rels src='an Leon, an Bandraoi agus an Prios Éadaigh'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='C. S. Lewis'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=An_Gas%C3%BAr_a_Chaith_na_Pitse%C3%A1ma%C3%AD_Str%C3%ADocacha&amp;oldid=723070'>
+<fragment>
+Is leabhar é <ne type='book'>An Gasúr a Chaith na Pitseámaí Stríocacha</ne> ag an údar <ne type='person'>John Boyne</ne>
+</fragment>
+<rels src='An Gasúr a Chaith na Pitseámaí Stríocacha'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='John Boyne'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=An_R%C3%AD_Lir_%28Dr%C3%A1ma%29&amp;oldid=800962'>
+<fragment>
+Is dráma traigéide leis an drámadóir clúiteach Sasanach, <ne type='person'>William Shakespeare</ne>, é <ne type='book'>An Rí Lir</ne>
+</fragment>
+<rels src='An Rí Lir'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='William Shakespeare'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Catch-22&amp;oldid=818531'>
+<fragment>
+Úrscéal aorach leis an údar Meiriceánach <ne type='person'>Joseph Heller</ne> is ea <ne type='book'>Catch-22</ne>
+</fragment>
+<rels src='Catch-22'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Joseph Heller'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=A_Portrait_of_the_Artist_as_a_Young_Man&amp;oldid=717098'>
+<fragment>
+Úrscéal Béarla scríofa ag an údar Éireannach <ne type='person'>James Joyce</ne> é <ne type='book'>A Portrait of the Artist as a Young Man</ne>
+</fragment>
+<rels src='A Portrait of the Artist as a Young Man'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='James Joyce'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=An_B%C3%A9al_Bocht&amp;oldid=736352'>
+<fragment>
+Úrscéal aorach scríofa as Gaeilge é <ne type='book'>An Béal Bocht</ne>, leis an scríbhneoir Éireannach <ne type='person'>Brian Ó Nualláin</ne>
+</fragment>
+<rels src='An Béal Bocht'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Brian Ó Nualláin'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=The_Commitments&amp;oldid=671527'>
+<fragment>
+Úrscéal ó pheann an scríbhneora Éireannaigh <ne type='person'>Roddy Doyle</ne> is ea <ne type='book'>The Commitments</ne>
+</fragment>
+<rels src='The Commitments'>
+  <rel fbtype='book.written_work.author' wdprop='P50' trg='Roddy Doyle'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=The_Incredibles&amp;oldid=820474'>
+<fragment>
+Scannán beochana Meiriceánach is ea <ne type='film'>The Incredibles</ne> a rinneadh sa bhliain 2004. B'é <ne type='person'>Brad Bird</ne> stiúrthóir an scannáin.
+</fragment>
+<rels src='The Incredibles'>
+  <rel fbtype='film.film.directed_by' wdprop='P57' trg='Brad Bird'/>
+</rels>
+</txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Star_Wars_Episode_VIII:_The_Last_Jedi&amp;oldid=826372'>
+<fragment>
+Scannán is ea <ne type='film'>Star Wars Episode VIII: The Last Jedi</ne> (2017). Is é <ne type='person'>Rian Johnson</ne> stiúrthóir an scannáin.
+</fragment>
+<rels src='Star Wars Episode VIII: The Last Jedi'>
+  <rel fbtype='film.film.directed_by' wdprop='P57' trg='Rian Johnson'/>
+</rels>
+</txt>
+</texts>
