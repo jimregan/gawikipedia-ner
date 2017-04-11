@@ -33,3 +33,63 @@ Bhanc Idirnáisiúnta Athfhoirgníochta
 Bhanc na Polainne
 Bhanc Shasana
 Bhanc Uladh
+Baile na Coille CLG
+CLG Áth an Mhuilinn
+CLG Áth Dara
+CLG Átháin
+CLG Baile an Chaisleáin/Béal Átha Grean
+CLG Baile Bricín/An Bóthar Mór
+CLG Baile Brún
+CLG Brú na Déise
+CLG Brú Rí
+CLG An Caisleán Nua Thiar
+CLG Cathair Laighin
+CLG An Charraig Dhubh
+CLG An Cheapach Mhór
+CLG Cill Chuarnáin
+CLG Cill Díoma
+CLG Cill Íde
+CLG Cill Mocheallóg
+CLG Cill Tíle/Drom Chaoin
+CLG Clochán
+CLG Cnoc Áine
+CLG Cnoc an Doire
+CLG An Cnocán
+CLG Craobh Chumhra
+CLG Cróch/Cill na Fíonaí
+CLG Cromadh
+CLG Drom Chollachair/Béal an Átha
+CLG An Dromainn/An tÁth Leacach
+CLG Dún Bleisce
+CLG Eas Géibhtine
+CLG Eithbhinn
+CLG Fánaithe an Ghleanna
+CLG Fánaithe na Camóige
+CLG Feadamar
+CLG An Fheothanach/Caisleán Uí Mhathúna
+CLG Fíonach/Cill Mhíde
+CLG Garrdha Uí Spiolláin
+CLG An Gleann Rua
+CLG Greanach/Baile an Gharrdha
+CLG Máigh Rua/An Bóthar
+CLG Móin a' Lín
+CLG Móin na nGé
+CLG Mungairit
+CLG Naomh Ciarán
+CLG Naomh Pádraig
+CLG An tOspidéal/Cathair Fuinse
+CLG Pailís Chaonraoí
+CLG Pailís na Gréine
+CLG Na Piarsaigh
+CLG Na Piarsaigh
+CLG Ráth Caola
+CLG Sáirséiligh na Mainistreach
+CLG Saor Theas
+CLG Na Seamróga Baile Héil
+CLG Séamus Mac Stiofáin
+CLG Sean-Chríostaithe
+CLG Stáicéirí de Bhailís
+CLG Teampall an Ghleanntáin
+CLG Tobar Phádraig
+CLG Tomás Dáibhís
+CLG Tuar na Fola
