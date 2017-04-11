@@ -93,3 +93,73 @@ CLG Teampall an Ghleanntáin
 CLG Tobar Phádraig
 CLG Tomás Dáibhís
 CLG Tuar na Fola
+CLG Gaeil Fhanada
+
+CLG Áth an Mhuilinn
+CLG Áth an tSléibhe
+CLG Áth Dara
+CLG Átháin
+CLG An tAthair Ó Cathasaigh
+CLG Baile an Chaisleáin/Béal Átha Grean
+CLG Baile an Londraigh
+CLG Baile Bricín/An Bóthar Mór
+CLG Baile Brún
+CLG Baile Stiabhana
+CLG An Bhánóg
+CLG Brú na Déise
+CLG Brú Rí
+CLG An Caisleán Nua Thiar
+CLG Cathair Chinn Lis
+CLG An Charraig Dhubh
+CLG An Cheapach
+CLG An Cheapach Mhór
+CLG Cill Chuarnáin
+CLG Cill Íde
+CLG Cill Mocheallóg
+Cill Mochuda na Crócaigh
+CLG Cill Tíle/Drom Chaoin
+CLG Cill Daingin
+CLG Cláirsigh Naomh Beinidict
+CLG Ghaoth Dobhair
+CLG Clochán
+CLG Cnoc Áine
+CLG Cnoc an Doire
+CLG Cnoc Uí Choileáin
+CLG An Cnocán
+CLG Craobh Chumhra
+CLG Cromadh
+CLG Drom Chollachair/Béal an Átha
+CLG Fánaithe na Camóige
+CLG Feadamar
+CLG An Fheothanach/Caisleán Uí Mhathúna
+CLG Fíonach/Cill Mhíde
+CLG Gaeil Baile na Cora
+CLG Gaeil Blath Gall
+Gaeil Fhánada
+CLG Gaeil Ghailtí
+CLG Gallbhaile
+CLG Gearóid Ó Gríofa
+CLG An Gleann
+CLG Greanach/Baile an Gharrdha
+CLG Máigh Rua/An Bóthar
+CLG Móin a' Lín
+CLG Móin na nGé
+CLG Mungairit
+Na Gaeil Óga, CLG
+CLG Naomh Ciarán
+CLG Naomh Pádraig
+CLG Naomh Seanán
+CLG An tOspidéal/Cathair Fuinse
+CLG Pailís Chaonraoí
+CLG Pailís na Gréine
+CLG Na Piarsaigh
+CLG Na Piarsaigh
+CLG Ráth Caola
+Réaltaí na hÉireann, CLG
+CLG Sáirséiligh na Mainistreach
+CLG Saor Theas
+CLG Séamus Mac Stiofáin
+CLG Stáicéirí de Bhailís
+CLG Tobar Phádraig
+CLG Tomás Dáibhís
+CLG Úlla
