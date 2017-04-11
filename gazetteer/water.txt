@@ -9,6 +9,7 @@ Abhainn Amain
 Abhainn Amnok
 Abhainn an Bharda
 Abhainn an Bhearú
+Abhainn an Bhradáin
 Abhainn an Brenta
 Abhainn an Bruna
 Abhainn an Chaparo
@@ -29,7 +30,9 @@ Abhainn an Leannan
 Abhainn an Loire
 Abhainn an Mersey
 Abhainn an Mhíodúin Leathain
+Abhainn an Moorabool Thiar
 Abhainn an Moorabool Thoir
+Abhainn An Nainicín
 Abhainn an Niagara
 Abhainn an Óir
 Abhainn an Phollaigh
@@ -37,7 +40,9 @@ Abhainn an Plata
 Abhainn an Róba
 Abhainn an Scáil
 Abhainn an Spidéal
+Abhainn an Spidéil
 Abhainn an Támais
+Abhainn an Werribee
 Abhainn Árdail
 Abhainn Arno
 Abhainn Átha Féan
@@ -115,6 +120,7 @@ Abhainn Grinnell Sylvia
 Abhainn Guadalupe
 Abhainn Havel
 Abhainn hIondúise
+Abhainn Hooghly
 Abhainn Hudson
 Abhainn Humber
 Abhainn Íle
@@ -139,6 +145,7 @@ Abhainn Mbabane
 Abhainn McKenzie
 Abhainn Mhagdalena
 Abhainn Mhedellín
+Abhainn Mheiriceá
 Abhainn Mheiriceánach
 Abhainn Mhóir na Mumhan
 Abhainn Mhór
@@ -173,6 +180,7 @@ Abhainn na Gaillimhe
 Abhainn na Gaimbia
 Abhainn na hAille
 Abhainn na hAisne
+Abhainn na hAmasóine
 Abhainn na hEatharlaí
 Abhainn na hÉirne
 Abhainn na hIascaigh
@@ -264,9 +272,11 @@ Abhainn St
 Abhainn Stíc
 Abhainn Stour
 Abhainn Suidhe
+Abhainn Suriname
 Abhainn Taedong
 Abhainn Tagus
 Abhainn Tanat
+Abhainn Tay
 Abhainn Tees
 Abhainn Tefeidiad
 Abhainn Thames
@@ -294,8 +304,319 @@ Abhainn Yare
 Abhainn Yarra
 Abhainn Yarrowee
 Abhainn Yenisei
+Abhainn Yodo
 Abhainn Yukon
 Abhainn Zhujiang
 Abhainn Zumbro
-Abhainn an Moorabool Thiar
 Amhainn an Sambesí
+hAbhainn Abbey
+hAbhainn Abhóca
+hAbhainn Ád
+hAbhainn Aire
+hAbhainn Airgid
+hAbhainn Airgidín
+hAbhainn Allander
+hAbhainn Amain
+hAbhainn Amnok
+hAbhainn an Bharda
+hAbhainn an Bhearú
+hAbhainn an Bhradáin
+hAbhainn an Brenta
+hAbhainn an Bruna
+hAbhainn an Chaparo
+hAbhainn an Chláir
+hAbhainn an Chongó
+hAbhainn an Danóib
+hAbhainn an Delaware
+hAbhainn an Dnieper
+hAbhainn an Dnístir
+hAbhainn an Fhinnisc
+hAbhainn an Fhoinse
+hAbhainn Angara
+hAbhainn an Ghrifín
+hAbhainn an Hudson
+hAbhainn an Humber
+hAbhainn an Lagáin
+hAbhainn an Leannan
+hAbhainn an Loire
+hAbhainn an Mersey
+hAbhainn an Mhíodúin Leathain
+hAbhainn an Moorabool Thiar
+hAbhainn an Moorabool Thoir
+hAbhainn An Nainicín
+hAbhainn an Niagara
+hAbhainn an Óir
+hAbhainn an Phollaigh
+hAbhainn an Plata
+hAbhainn an Róba
+hAbhainn an Scáil
+hAbhainn an Spidéal
+hAbhainn an Spidéil
+hAbhainn an Támais
+hAbhainn an Werribee
+hAbhainn Árdail
+hAbhainn Arno
+hAbhainn Átha Féan
+hAbhainn Avon
+hAbhainn Back
+hAbhainn Barito
+hAbhainn Barwon
+hAbhainn Beag
+hAbhainn Bhán
+hAbhainn Bheag
+hAbhainn Bhoth Loiscthe
+hAbhainn Bhrain
+hAbhainn Bhréan
+hAbhainn Bhrúiné
+hAbhainn Bhuí
+hAbhainn Brúra
+hAbhainn Buí
+hAbhainn Carrann
+hAbhainn Chaisleán Dhún Dealgan
+hAbhainn Chamóige
+hAbhainn Chárthaí
+hAbhainn Cheathrú Aodha Dhuibh
+hAbhainn Cheathrú Aodha Duibh
+hAbhainn Cheilbhinn
+hAbhainn Chluaidh
+hAbhainn Chomhann
+hAbhainn Chomhla
+hAbhainn Chroithlí
+hAbhainn Chrumlinne
+hAbhainn Clough
+hAbhainn Coille
+hAbhainn Colorado
+hAbhainn Columbia
+hAbhainn Comhan
+hAbhainn Connecticut
+hAbhainn Conwy
+hAbhainn Cooks
+hAbhainn Cristina
+hAbhainn Crouch
+hAbhainn Darling
+hAbhainn Dart
+hAbhainn Dé
+hAbhainn Delaware
+hAbhainn Derwent
+hAbhainn Detroit
+hAbhainn Dhearg
+hAbhainn Dhobi Khola
+hAbhainn Dniester
+hAbhainn Don
+hAbhainn Douro
+hAbhainn Dubh
+hAbhainn Duinne
+hAbhainn Eachroma
+hAbhainn Eallach
+hAbhainn Eidhneach
+hAbhainn Eridanus
+hAbhainn Exe
+hAbhainn Fheartraí
+hAbhainn Fleet
+hAbhainn Gaoth Déanaí
+hAbhainn Garbh Óg
+hAbhainn Genesee
+hAbhainn Georges
+hAbhainn Ghar
+hAbhainn Gharadh
+hAbhainn Ghlais
+hAbhainn Ghlas
+hAbhainn Ghleann Rí
+hAbhainn Gleann na Muaidhe
+hAbhainn Glenderamackin
+hAbhainn Gowan
+hAbhainn Grand
+hAbhainn Great Ouse
+hAbhainn Grinnell Sylvia
+hAbhainn Guadalupe
+hAbhainn Havel
+hAbhainn hIondúise
+hAbhainn Hooghly
+hAbhainn Hudson
+hAbhainn Humber
+hAbhainn Íle
+hAbhainn Ilidh
+hAbhainn Ingrebourne
+hAbhainn Ipiranga
+hAbhainn Jordan
+hAbhainn Kolyma
+hAbhainn Krzna
+hAbhainn Kurówka
+hAbhainn Leitha
+hAbhainn Leitheinn
+hAbhainn Lerderderg
+hAbhainn Lilongwe
+hAbhainn Líobhann
+hAbhainn Mackenzie
+hAbhainn Maputo
+hAbhainn Maule
+hAbhainn Maxwell
+hAbhainn Mayne
+hAbhainn Mbabane
+hAbhainn McKenzie
+hAbhainn Mhagdalena
+hAbhainn Mhedellín
+hAbhainn Mheiriceá
+hAbhainn Mheiriceánach
+hAbhainn Mhóir na Mumhan
+hAbhainn Mhór
+hAbhainn Mhór na Mumhan
+hAbhainn Mhór na nIasc
+hAbhainn Minnesota
+hAbhainn Mississippi
+hAbhainn Mobile
+hAbhainn Moika
+hAbhainn Moorabool
+hAbhainn Mór
+hAbhainn Moskva
+hAbhainn Muing na Bó
+hAbhainn Murray
+hAbhainn na Bandan
+hAbhainn na Banna
+hAbhainn na Bearú
+hAbhainn na bhFiodh
+hAbhainn na Bóinne
+hAbhainn na bPéarlaí
+hAbhainn na Coiribe
+hAbhainn na Colóime
+hAbhainn na Cora
+hAbhainn na Creige
+hAbhainn na Danóibe
+hAbhainn na Deirge
+hAbhainn na Féile
+hAbhainn na Feoire
+hAbhainn na Fhorghais
+hAbhainn na Finne
+hAbhainn na Gaillimhe
+hAbhainn na Gaimbia
+hAbhainn na hAille
+hAbhainn na hAisne
+hAbhainn na hAmasóine
+hAbhainn na hEatharlaí
+hAbhainn na hÉirne
+hAbhainn na hIascaigh
+hAbhainn na hIordáine
+hAbhainn na Iordáine
+hAbhainn na Lagáine
+hAbhainn na Lagan
+hAbhainn na Laoi
+hAbhainn na Life
+hAbhainn na LIfe
+hAbhainn na Lobhar
+hAbhainn na Loinge
+hAbhainn na Máige
+hAbhainn na Máighe
+hAbhainn na Mainistreach
+hAbhainn na mBradán
+hAbhainn na Missouri
+hAbhainn na Moldóive
+hAbhainn na Muaidhe
+hAbhainn na Nathrach
+hAbhainn na nEalaí
+hAbhainn na Nigire
+hAbhainn na nIorach
+hAbhainn na Potomac
+hAbhainn na Réine
+hAbhainn na Ró
+hAbhainn na Róine
+hAbhainn na Sailchis
+hAbhainn na Sailise
+hAbhainn na Scríne
+hAbhainn na Seile
+hAbhainn na Seineagáile
+hAbhainn na Sionainne
+hAbhainn na Sionna
+hAbhainn na Siúire
+hAbhainn na Sláine
+hAbhainn na Spé
+hAbhainn na Stéille
+hAbhainn na Tamaise
+hAbhainn na Tulcha
+hAbhainn na Tulchann
+hAbhainn Niagara
+hAbhainn Nid
+hAbhainn Nígir
+hAbhainn Nis
+hAbhainn Ob
+hAbhainn Ohio
+hAbhainn Oirimh
+hAbhainn Oirthear
+hAbhainn Omhaich
+hAbhainn Paddock
+hAbhainn Pakhra
+hAbhainn Parwan
+hAbhainn Passaic
+hAbhainn Pedieos
+hAbhainn Pisuerga
+hAbhainn Po
+hAbhainn Polinjane
+hAbhainn Qinhuai
+hAbhainn Rawa
+hAbhainn Red
+hAbhainn Rhaeadr
+hAbhainn Rí
+hAbhainn Riabhach
+hAbhainn Ríoga
+hAbhainn Rivelin
+hAbhainn Roding
+hAbhainn Roseau
+hAbhainn Rosien
+hAbhainn Rua
+hAbhainn Rubico
+hAbhainn Ruhr
+hAbhainn Sacramento
+hAbhainn Saguenay
+hAbhainn San Antonio
+hAbhainn San Labhrais
+hAbhainn San Labhráns
+hAbhainn San Labhrás
+hAbhainn Seantreabh
+hAbhainn Seile
+hAbhainn Sgitheach
+hAbhainn Shacramento
+hAbhainn Sheantraibh
+hAbhainn Shuranam
+hAbhainn Snake
+hAbhainn Sǒngch
+hAbhainn Spè
+hAbhainn St
+hAbhainn Stíc
+hAbhainn Stour
+hAbhainn Suidhe
+hAbhainn Suriname
+hAbhainn Taedong
+hAbhainn Tagus
+hAbhainn Tanat
+hAbhainn Tay
+hAbhainn Tees
+hAbhainn Tefeidiad
+hAbhainn Thames
+hAbhainn Theórsa
+hAbhainn Thompson Theas
+hAbhainn Thompson Thuaidh
+hAbhainn Thuaidh
+hAbhainn Ticino
+hAbhainn Tigris
+hAbhainn Trinity
+hAbhainn Truim
+hAbhainn Tyburn
+hAbhainn Uragua
+hAbhainn Ural
+hAbhainn Urchaidh
+hAbhainn Vardar
+hAbhainn Vishnumati
+hAbhainn Volga
+hAbhainn Werribee
+hAbhainn Weser
+hAbhainn Westbourne
+hAbhainn Wisła
+hAbhainn Yalu
+hAbhainn Yare
+hAbhainn Yarra
+hAbhainn Yarrowee
+hAbhainn Yenisei
+hAbhainn Yodo
+hAbhainn Yukon
+hAbhainn Zhujiang
+hAbhainn Zumbro
+hAmhainn an Sambesí
