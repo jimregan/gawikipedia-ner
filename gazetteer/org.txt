@@ -1,5 +1,5 @@
-
 Baile na Coille CLG
+Baile na Coille C.L.G.
 Banc Angla
 Banc an Tuaiscirt
 Banc Aontas Éireann
@@ -25,86 +25,331 @@ Bhanc Idirnáisiúnta Athfhoirgníochta
 Bhanc na Polainne
 Bhanc Shasana
 Bhanc Uladh
+Chumainn Lúthchleas Gael
 Cill Mochuda na Crócaigh
+C.L.G. An Bhánóg
 CLG An Bhánóg
+C.L.G. An Caisleán Nua Thiar
 CLG An Caisleán Nua Thiar
+C.L.G. An Charraig Dhubh
 CLG An Charraig Dhubh
+C.L.G. An Cheapach
 CLG An Cheapach
+C.L.G. An Cheapach Mhór
 CLG An Cheapach Mhór
+C.L.G. An Cnocán
 CLG An Cnocán
+C.L.G. An Dromainn/An tÁth Leacach
 CLG An Dromainn/An tÁth Leacach
+C.L.G. An Fheothanach/Caisleán Uí Mhathúna
 CLG An Fheothanach/Caisleán Uí Mhathúna
+C.L.G. An Gleann
 CLG An Gleann
+C.L.G. An Gleann Rua
 CLG An Gleann Rua
+C.L.G. An tAthair Ó Cathasaigh
 CLG An tAthair Ó Cathasaigh
+C.L.G. An tOspidéal/Cathair Fuinse
 CLG An tOspidéal/Cathair Fuinse
+C.L.G. Átháin
 CLG Átháin
+C.L.G. Áth an Mhuilinn
 CLG Áth an Mhuilinn
+C.L.G. Áth an tSléibhe
 CLG Áth an tSléibhe
+C.L.G. Áth Dara
 CLG Áth Dara
+C.L.G. Baile an Chaisleáin/Béal Átha Grean
 CLG Baile an Chaisleáin/Béal Átha Grean
+C.L.G. Baile an Londraigh
 CLG Baile an Londraigh
+C.L.G. Baile Bricín/An Bóthar Mór
 CLG Baile Bricín/An Bóthar Mór
+C.L.G. Baile Brún
 CLG Baile Brún
+C.L.G. Baile Stiabhana
 CLG Baile Stiabhana
+C.L.G. Brú na Déise
 CLG Brú na Déise
+C.L.G. Brú Rí
 CLG Brú Rí
+C.L.G. Cathair Chinn Lis
 CLG Cathair Chinn Lis
+C.L.G. Cathair Laighin
 CLG Cathair Laighin
+C.L.G. Cill Chuarnáin
 CLG Cill Chuarnáin
+C.L.G. Cill Daingin
 CLG Cill Daingin
+C.L.G. Cill Díoma
 CLG Cill Díoma
+C.L.G. Cill Íde
 CLG Cill Íde
+C.L.G. Cill Mocheallóg
 CLG Cill Mocheallóg
+C.L.G. Cill Tíle/Drom Chaoin
 CLG Cill Tíle/Drom Chaoin
+C.L.G. Cláirsigh Naomh Beinidict
 CLG Cláirsigh Naomh Beinidict
+C.L.G. Clochán
 CLG Clochán
+C.L.G. Cnoc Áine
 CLG Cnoc Áine
+C.L.G. Cnoc an Doire
 CLG Cnoc an Doire
+C.L.G. Cnoc Uí Choileáin
 CLG Cnoc Uí Choileáin
+C.L.G. Craobh Chumhra
 CLG Craobh Chumhra
+C.L.G. Cróch/Cill na Fíonaí
 CLG Cróch/Cill na Fíonaí
+C.L.G. Cromadh
 CLG Cromadh
+C.L.G. Drom Chollachair/Béal an Átha
 CLG Drom Chollachair/Béal an Átha
+C.L.G. Dún Bleisce
 CLG Dún Bleisce
+C.L.G. Eas Géibhtine
 CLG Eas Géibhtine
+C.L.G. Eithbhinn
 CLG Eithbhinn
+C.L.G. Fánaithe an Ghleanna
 CLG Fánaithe an Ghleanna
+C.L.G. Fánaithe na Camóige
 CLG Fánaithe na Camóige
+C.L.G. Feadamar
 CLG Feadamar
+C.L.G. Fíonach/Cill Mhíde
 CLG Fíonach/Cill Mhíde
+C.L.G. Gaeil Baile na Cora
 CLG Gaeil Baile na Cora
+C.L.G. Gaeil Blath Gall
 CLG Gaeil Blath Gall
+C.L.G. Gaeil Fhanada
 CLG Gaeil Fhanada
+C.L.G. Gaeil Ghailtí
 CLG Gaeil Ghailtí
+C.L.G. Gallbhaile
 CLG Gallbhaile
+C.L.G. Garrdha Uí Spiolláin
 CLG Garrdha Uí Spiolláin
+C.L.G. Gearóid Ó Gríofa
 CLG Gearóid Ó Gríofa
+C.L.G. Ghaoth Dobhair
 CLG Ghaoth Dobhair
+C.L.G. Greanach/Baile an Gharrdha
 CLG Greanach/Baile an Gharrdha
+C.L.G. Máigh Rua/An Bóthar
 CLG Máigh Rua/An Bóthar
+C.L.G. Mhá Dheilge
+CLG Mhá Dheilge
+C.L.G. Móin a' Lín
 CLG Móin a' Lín
+C.L.G. Móin na nGé
 CLG Móin na nGé
+C.L.G. Mungairit
 CLG Mungairit
+C.L.G. Naomh Ciarán
 CLG Naomh Ciarán
+C.L.G. Naomh Mhuire/Sliabh gCua
+CLG Naomh Mhuire/Sliabh gCua
+C.L.G. Naomh Pádraig
 CLG Naomh Pádraig
+C.L.G. Naomh Seanán
 CLG Naomh Seanán
+C.L.G. Na Piarsaigh
 CLG Na Piarsaigh
+C.L.G. Na Seamróga Baile Héil
 CLG Na Seamróga Baile Héil
+C.L.G. Pailís Chaonraoí
 CLG Pailís Chaonraoí
+C.L.G. Pailís na Gréine
 CLG Pailís na Gréine
+C.L.G. Ráth Caola
 CLG Ráth Caola
+C.L.G. Sáirséiligh na Mainistreach
 CLG Sáirséiligh na Mainistreach
+C.L.G. Saor Theas
 CLG Saor Theas
+C.L.G. Séamus Mac Stiofáin
 CLG Séamus Mac Stiofáin
+C.L.G. Sean-Chríostaithe
 CLG Sean-Chríostaithe
+C.L.G. Stáicéirí de Bhailís
 CLG Stáicéirí de Bhailís
+C.L.G. Teampall an Ghleanntáin
 CLG Teampall an Ghleanntáin
+C.L.G. Tobar Phádraig
 CLG Tobar Phádraig
+C.L.G. Tomás Dáibhís
 CLG Tomás Dáibhís
+C.L.G. Tuar na Fola
 CLG Tuar na Fola
+C.L.G. Úlla
 CLG Úlla
+Cumainn Lúthchleas Gael
 Gaeil Fhánada
+gC.L.G. An Bhánóg
+gCLG An Bhánóg
+gC.L.G. An Caisleán Nua Thiar
+gCLG An Caisleán Nua Thiar
+gC.L.G. An Charraig Dhubh
+gCLG An Charraig Dhubh
+gC.L.G. An Cheapach
+gCLG An Cheapach
+gC.L.G. An Cheapach Mhór
+gCLG An Cheapach Mhór
+gC.L.G. An Cnocán
+gCLG An Cnocán
+gC.L.G. An Dromainn/An tÁth Leacach
+gCLG An Dromainn/An tÁth Leacach
+gC.L.G. An Fheothanach/Caisleán Uí Mhathúna
+gCLG An Fheothanach/Caisleán Uí Mhathúna
+gC.L.G. An Gleann
+gCLG An Gleann
+gC.L.G. An Gleann Rua
+gCLG An Gleann Rua
+gC.L.G. An tAthair Ó Cathasaigh
+gCLG An tAthair Ó Cathasaigh
+gC.L.G. An tOspidéal/Cathair Fuinse
+gCLG An tOspidéal/Cathair Fuinse
+gC.L.G. Átháin
+gCLG Átháin
+gC.L.G. Áth an Mhuilinn
+gCLG Áth an Mhuilinn
+gC.L.G. Áth an tSléibhe
+gCLG Áth an tSléibhe
+gC.L.G. Áth Dara
+gCLG Áth Dara
+gC.L.G. Baile an Chaisleáin/Béal Átha Grean
+gCLG Baile an Chaisleáin/Béal Átha Grean
+gC.L.G. Baile an Londraigh
+gCLG Baile an Londraigh
+gC.L.G. Baile Bricín/An Bóthar Mór
+gCLG Baile Bricín/An Bóthar Mór
+gC.L.G. Baile Brún
+gCLG Baile Brún
+gC.L.G. Baile Stiabhana
+gCLG Baile Stiabhana
+gC.L.G. Brú na Déise
+gCLG Brú na Déise
+gC.L.G. Brú Rí
+gCLG Brú Rí
+gC.L.G. Cathair Chinn Lis
+gCLG Cathair Chinn Lis
+gC.L.G. Cathair Laighin
+gCLG Cathair Laighin
+gC.L.G. Cill Chuarnáin
+gCLG Cill Chuarnáin
+gC.L.G. Cill Daingin
+gCLG Cill Daingin
+gC.L.G. Cill Díoma
+gCLG Cill Díoma
+gC.L.G. Cill Íde
+gCLG Cill Íde
+gC.L.G. Cill Mocheallóg
+gCLG Cill Mocheallóg
+gC.L.G. Cill Tíle/Drom Chaoin
+gCLG Cill Tíle/Drom Chaoin
+gC.L.G. Cláirsigh Naomh Beinidict
+gCLG Cláirsigh Naomh Beinidict
+gC.L.G. Clochán
+gCLG Clochán
+gC.L.G. Cnoc Áine
+gCLG Cnoc Áine
+gC.L.G. Cnoc an Doire
+gCLG Cnoc an Doire
+gC.L.G. Cnoc Uí Choileáin
+gCLG Cnoc Uí Choileáin
+gC.L.G. Craobh Chumhra
+gCLG Craobh Chumhra
+gC.L.G. Cróch/Cill na Fíonaí
+gCLG Cróch/Cill na Fíonaí
+gC.L.G. Cromadh
+gCLG Cromadh
+gC.L.G. Drom Chollachair/Béal an Átha
+gCLG Drom Chollachair/Béal an Átha
+gC.L.G. Dún Bleisce
+gCLG Dún Bleisce
+gC.L.G. Eas Géibhtine
+gCLG Eas Géibhtine
+gC.L.G. Eithbhinn
+gCLG Eithbhinn
+gC.L.G. Fánaithe an Ghleanna
+gCLG Fánaithe an Ghleanna
+gC.L.G. Fánaithe na Camóige
+gCLG Fánaithe na Camóige
+gC.L.G. Feadamar
+gCLG Feadamar
+gC.L.G. Fíonach/Cill Mhíde
+gCLG Fíonach/Cill Mhíde
+gC.L.G. Gaeil Baile na Cora
+gCLG Gaeil Baile na Cora
+gC.L.G. Gaeil Blath Gall
+gCLG Gaeil Blath Gall
+gC.L.G. Gaeil Fhanada
+gCLG Gaeil Fhanada
+gC.L.G. Gaeil Ghailtí
+gCLG Gaeil Ghailtí
+gC.L.G. Gallbhaile
+gCLG Gallbhaile
+gC.L.G. Garrdha Uí Spiolláin
+gCLG Garrdha Uí Spiolláin
+gC.L.G. Gearóid Ó Gríofa
+gCLG Gearóid Ó Gríofa
+gC.L.G. Ghaoth Dobhair
+gCLG Ghaoth Dobhair
+gC.L.G. Greanach/Baile an Gharrdha
+gCLG Greanach/Baile an Gharrdha
+gC.L.G. Máigh Rua/An Bóthar
+gCLG Máigh Rua/An Bóthar
+gC.L.G. Mhá Dheilge
+gCLG Mhá Dheilge
+gC.L.G. Móin a' Lín
+gCLG Móin a' Lín
+gC.L.G. Móin na nGé
+gCLG Móin na nGé
+gC.L.G. Mungairit
+gCLG Mungairit
+gC.L.G. Naomh Ciarán
+gCLG Naomh Ciarán
+gC.L.G. Naomh Mhuire/Sliabh gCua
+gCLG Naomh Mhuire/Sliabh gCua
+gC.L.G. Naomh Pádraig
+gCLG Naomh Pádraig
+gC.L.G. Naomh Seanán
+gCLG Naomh Seanán
+gC.L.G. Na Piarsaigh
+gCLG Na Piarsaigh
+gC.L.G. Na Seamróga Baile Héil
+gCLG Na Seamróga Baile Héil
+gC.L.G. Pailís Chaonraoí
+gCLG Pailís Chaonraoí
+gC.L.G. Pailís na Gréine
+gCLG Pailís na Gréine
+gC.L.G. Ráth Caola
+gCLG Ráth Caola
+gC.L.G. Sáirséiligh na Mainistreach
+gCLG Sáirséiligh na Mainistreach
+gC.L.G. Saor Theas
+gCLG Saor Theas
+gC.L.G. Séamus Mac Stiofáin
+gCLG Séamus Mac Stiofáin
+gC.L.G. Sean-Chríostaithe
+gCLG Sean-Chríostaithe
+gC.L.G. Stáicéirí de Bhailís
+gCLG Stáicéirí de Bhailís
+gC.L.G. Teampall an Ghleanntáin
+gCLG Teampall an Ghleanntáin
+gC.L.G. Tobar Phádraig
+gCLG Tobar Phádraig
+gC.L.G. Tomás Dáibhís
+gCLG Tomás Dáibhís
+gC.L.G. Tuar na Fola
+gCLG Tuar na Fola
+gC.L.G. Úlla
+gCLG Úlla
+gCumainn Lúthchleas Gael
 mBanc Aontas na hÉireann
 mBanc Ceannais Eorpach
 mBanc Ceannais na hÍoslainne
@@ -114,4 +359,6 @@ mBanc na hÉireann
 mBanc na Mumhan
 mBanc Taisce
 Na Gaeil Óga, CLG
+Na Gaeil Óga, C.L.G.
 Réaltaí na hÉireann, CLG
+Réaltaí na hÉireann, C.L.G.
