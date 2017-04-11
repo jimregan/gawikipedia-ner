@@ -156,20 +156,8 @@ Baile Atha Cliath
 Baile Átha Cliath
 Baile Átha Cliathach
 Baile Átha Cliathaigh
-Baile Átha Cliath Aoine an Chéasta
-Baile Átha Cliath Ard Aidhin
-Baile Átha Cliath Ba
-Baile Átha Cliath Craobh na hÉireann
-Baile Átha Cliath Éire
-Baile Átha Cliath Fine Gall
-Baile Átha Cliath Iar
-Baile Átha Cliath Láir
 Baile Átha Cliath Lár
-Baile Átha Cliath Leabharlann
 Baile Átha Cliath Oir
-Baile Átha Cliath Oireachtas na hÉireann
-Baile Átha Cliath Ráth an Dúin
-Baile Átha Cliath Stáisiún na bPiarsach
 Baile Átha Cliath Theas
 Baile Átha Cliath Thiar
 Baile Átha Cliath Thiar Theas
@@ -177,7 +165,6 @@ Baile Átha Cliath Thoir Theas
 Baile Átha Cliath Thoir Thuaidh
 Baile Átha Cliath Thuaidh
 Baile Átha Cliath Thuaidh Thiar
-Baile Átha Cliath Victeoiriach
 Baile Átha Faithlinn
 Baile Átha Fhirdhia
 Baile Átha hÚlla
@@ -213,8 +200,6 @@ Baile Bóidheach
 Baile Breac
 Baile Bricin
 Baile Bricín
-Baile Bricín Craobh Iomána Idirmheánach Chontae Luimnigh
-Baile Bricín Craobh Sóisear
 Baile Brigím
 Baile Brigín
 Baile Briotáis
@@ -401,7 +386,6 @@ Baile na Cille
 Baile na Clocha
 Baile na Cloiche
 Baile na Coille
-Baile na Coille CLG
 Baile na Cora
 Baile Na Cora
 Baile na Cora Thiar
@@ -1037,7 +1021,6 @@ Contae Thiobraid Árann
 Contae Thiobraid Árann Theas
 Contae Thiobraid Árann Thuaidh
 Contae Thír Eoghain
-Contae Thír Eoghain Caisleán na Deirge
 Contae Tianjin
 Contae Tioga
 Contae Tiranë
@@ -1128,9 +1111,7 @@ mBaile Átha Chliath
 mBaile Atha Cliath
 mBaile Átha Cliath
 mBaile Átha Cliatha
-mBaile Átha Cliath Dé Sathairn
 mBaile Átha Cliath Lár Theas
-mBaile Átha Cliath na hÉireann
 mBaile Átha Cliath Theas
 mBaile Átha Cliath Thiar
 mBaile Átha Cliath Thiar Theas
@@ -1272,12 +1253,6 @@ Bhaile Atha Cliath
 Bhaile Átha Cliath
 Bhaile Átha CLiath
 Bhaile Athá Cliath
-Bhaile Átha Cliatha
-Bhaile Átha Cliath Bernard Brogan
-Bhaile Átha Cliath Bernard Brogan Sinsir
-Bhaile Átha Cliath Craobh Peile na hÉireann
-Bhaile Átha Cliathi
-Bhaile Átha Cliath Institiúid Teicneolaíochta
 Bhaile Átha Cliath Láir
 Bhaile Átha Cliath Láir Thuaidh
 Bhaile Átha Cliath Lár
@@ -1429,7 +1404,6 @@ Poblacht na hAirméine
 Poblacht na hAlbáine
 Poblacht na hAsarbaiseáine
 Poblacht na hÉireann
-Poblacht na hÉireann an Coimisiún Béaloideasa Éireann
 Poblacht na hIaráice
 Poblacht na hInde
 Poblacht na hIndia
