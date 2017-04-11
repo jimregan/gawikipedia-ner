@@ -1079,3 +1079,436 @@ Contae na Gaillimhe
 Contae na Mí
 Contae Shligigh
 Contae Thiobraid Árann
+mBaile Adaim
+mBaile Áimín
+mBaile an Bheileogaigh
+mBaile an Bhóthair
+mBaile an Bhríota
+mBaile an Bhuinneánaigh
+mBaile an Chaisil
+mBaile an Chaisleáin
+mBaile an Chaistil
+mBaile an Chollaigh
+mBaile an Chorra
+mBaile an Churraigh
+mBaile Andarsan
+mBaile an Doirín
+mBaile an Easpaig
+mBaile an Easpaigh
+mBaile an Fhaoitigh
+mBaile an Fheamrógaigh
+mBaile an Fheirtéaraigh
+mBaile an Fhirtéirigh
+mBaile an Ghaorthaidh
+mBaile an Gharraí
+mBaile an Gharrdha
+mBaile an Ghóilín
+mBaile an Ghoirt
+mBaile an Liag
+mBaile an Londraigh
+mBaile an Mhághúnaigh
+mBaile an Mhistéalaigh
+mBaile an Mhóta
+mBaile an Mhuilinn
+mBaile an Mhuilinnn
+mBaile an Phoill
+mBaile an Raghallaigh
+mBaile an Róba
+mBaile an Róistigh
+mBaile an Scálaigh
+mBaile an Sceilg
+mBaile an Teampaill
+mBaile an tSaoir
+mBaile an tSléibhe
+mBaile an tSoirtéalaigh
+mBaile Aontroma
+mBaile Átha an Rí
+mBaile Átha Buí
+mBaile Átha Chliath
+mBaile Atha Cliath
+mBaile Átha Cliath
+mBaile Átha Cliatha
+mBaile Átha Cliath Dé Sathairn
+mBaile Átha Cliath Lár Theas
+mBaile Átha Cliath na hÉireann
+mBaile Átha Cliath Theas
+mBaile Átha Cliath Thiar
+mBaile Átha Cliath Thiar Theas
+mBaile Átha Cliath Thoir
+mBaile Átha Cliath Thuaidh
+mBaile Átha Fhirdhia
+mBaile Átha Fínín
+mBaile Átha Luain
+mBaile Átha Troim
+mBaile Beag
+mBaile Bhlainséir
+mBaile Bhóidin
+mBaile Bhuirne
+mBaile Bhúirne
+mBaile Breac
+mBaile Bricín
+mBaile Brigín
+mBaile Brún
+mBaile Chaisleáin Bhéara
+mBaile Chathail
+mBaile Chlarc
+mBaile Choilín
+mBaile Chóilín
+mBaile Chruaidh
+mBaile Dhónaill
+mBaile Dhòrnaidh
+mBaile Dúill
+mBaile Eachaidh
+mBaile Easa Dara
+mBaile Eilidh na hAlban
+mBaile Formaid
+mBaile Gaelach
+mBaile Gallda
+mBaile Garbháin
+mBaile Ghib
+mBaile Ghrífín
+mBaile Héil
+mBaile Hugúin
+mBaile Iain
+mBaile Íomhair
+mBaile Locha Deacair
+mBaile Locha Riach
+mBaile Longphoirt
+mBaile Mainistir Fhear Maí
+mBaile Meánach
+mBaile Mhac Óda
+mBaile Mhic Andáin
+mBaile Mhic an tSaoir
+mBaile Mhic Aogáin
+mBaile Mhic Cathnaoin
+mBaile Mhic Dháith
+mBaile Mhic Sheáin Bhuí
+mBaile Mhig Rabhartaigh
+mBaile Mhistéala
+mBaile Monaidh
+mBaile Munna
+mBaile na Carraige
+mBaile na Cille
+mBaile na Cloiche
+mBaile na Cora Thiar
+mBaile na Corra
+mBaile na Finne
+mBaile na hAbha
+mBaile na hAbhann
+mBaile na hAbhna
+mBaile na hAirde
+mBaile na h-Eaglais
+mBaile na hEaglaise
+mBaile na hÉireann
+mBaile na hInse
+mBaile na h-Uige
+mBaile na Leamhnachd
+mBaile na Luí
+mBaile na Mainistreach
+mBaile na Manach
+mBaile na nGall
+mBaile na nGall Mór
+mBaile na Sceilge
+mBaile Néill
+mBaile Nua
+mBaile Nua an Phoirigh
+mBaile Nua na hArda
+mBaile Nua Poirigh
+mBaile Phámar
+mBaile Phib
+mBaile Phúinse
+mBaile Raghnaill
+mBaile Ros Comáin
+mBaile Sheadna
+mBaile Sheáin
+mBaile Shéamais Dhuibh
+mBaile Stiabhana
+mBaile Suingean
+mBaile Thalbóid
+mBaile Thancaird
+mBaile Thomáis
+mBaile Uí Bheacháin
+mBaile Uí Bheoláin
+mBaile Uí Challáin
+mBaile Uí Chionnfhaolaidh
+mBaile Uí Fhiacháin
+mBaile Uí Heairt
+mBaile Uilliam
+mBaile Uí Mhurchú
+mBaile Uí Shíoda
+mBaile Úr na Maoirne
+Bhaile an Bhiataigh
+Bhaile an Chaisleáin
+Bhaile an Chaisteal
+Bhaile an Chaistil
+Bhaile an Chaistil an Béarla
+Bhaile an Charrúnaigh
+Bhaile an Chláir
+Bhaile an Chollaigh
+Bhaile an Daigh
+Bhaile Andarsan
+Bhaile an Doire
+Bhaile an Easpaigh
+Bhaile an Fheirtéaraigh
+Bhaile an Gharraí
+Bhaile an Gharrdha
+Bhaile an Locha
+Bhaile an Londraigh
+Bhaile an Mhistéalaigh
+Bhaile an Mhóta
+Bhaile an Mhuilinn
+Bhaile an Phiaródaigh
+Bhaile an Róistigh
+Bhaile an Sceilg
+Bhaile an Teampaill
+Bhaile an Tobair
+Bhaile an tSaoir
+Bhaile Aontroma
+Bhaile Átha
+Bhaile Átha an Rí
+Bhaile Átha Buí
+Bhaile Átha Chliath
+Bhaile Atha Cliath
+Bhaile Átha Cliath
+Bhaile Átha CLiath
+Bhaile Athá Cliath
+Bhaile Átha Cliatha
+Bhaile Átha Cliath Bernard Brogan
+Bhaile Átha Cliath Bernard Brogan Sinsir
+Bhaile Átha Cliath Craobh Peile na hÉireann
+Bhaile Átha Cliathi
+Bhaile Átha Cliath Institiúid Teicneolaíochta
+Bhaile Átha Cliath Láir
+Bhaile Átha Cliath Láir Thuaidh
+Bhaile Átha Cliath Lár
+Bhaile Atha Cliath Theas
+Bhaile Átha Cliath Theas
+Bhaile Átha Cliath Thiar
+Bhaile Átha Cliath Thiar Theas
+Bhaile Átha Cliath Thoir
+Bhaile Átha Cliath Thoir Theas
+Bhaile Átha Cliath Thoir Thuaidh
+Bhaile Átha Cliath Thuaidh
+Bhaile Átha Cliath Thuaidh Láir
+Bhaile Átha Fhirdhia
+Bhaile Átha Luain
+Bhaile Átha Luain Thuaidh
+Bhaile Átha na Sluaighe
+Bhaile Átha Troim
+Bhaile Áth Cliath
+Bhaile Bhailcín
+Bhaile Bhlainséir
+Bhaile Bhuirne
+Bhaile Bhúirne
+Bhaile Bocht
+Bhaile Bricín
+Bhaile Brigín
+Bhaile Brún
+Bhaile Chaisleáin Bhéarra
+Bhaile Chaistil
+Bhaile Chathail
+Bhaile Chill Mhantáin
+Bhaile Chóplainn
+Bhaile Cuilinn
+Bhaile Dhá Thuile
+Bhaile Dhúill
+Bhaile Dhún na nGall
+Bhaile Dúill
+Bhaile Éamainn Dhuibh
+Bhaile Eilidh
+Bhaile Fearainn
+Bhaile Formaid
+Bhaile Gaelach
+Bhaile Gallda
+Bhaile Ghaelaigh
+Bhaile Ghib
+Bhaile Héil
+Bhaile Loch Cuan
+Bhaile Meánach
+Bhaile Mhac Óda
+Bhaile Mheánaigh
+Bhaile Mhistéala
+Bhaile Mhistéala na dTamhan
+Bhaile Mhúirne
+Bhaile Monaidh
+Bhaile Munna
+Bhaile na Cille
+Bhaile Na Clocha Liatha
+Bhaile na Dàlach
+Bhaile na Finne
+Bhaile na gCailleach
+Bhaile na Manach
+Bhaile na Muc
+Bhaile na nGall
+Bhaile na nGallóglach
+Bhaile na Raibert Ruadh
+Bhaile na Sionnainne
+Bhaile Nua
+Bhaile Nua na hArda
+Bhaile Nua na Mainistreach
+Bhaile Nua Phoirigh
+Bhaile Óraí
+Bhaile Pháiscín
+Bhaile Phib
+Bhaile Shear
+Bhaile Sheoinicín
+Bhaile Stiabhana
+Bhaile Suingean
+Bhaile Thalbóid
+Bhaile Thiar
+Bhaile Uí Argáin
+Bhaile Uí Bhróin
+Bhaile Uí Dhálaigh
+Bhaile Uí Fhlaithnín
+Bhaile Uí Lachnáin
+Bhaile Úir
+Bhaile Uí Ruáin
+Poblacht na Veinéise
+Poblacht Acre
+Poblacht Alba
+Poblacht Altae
+Poblacht an Chongó
+Poblacht an Chósta Eabhair
+Poblacht an Dá Náisiún
+Poblacht Angóla
+Poblacht an Lucht Oibre
+Poblacht Aontaithe na Tansáine
+Poblacht Aontaithe Tanganyika
+Poblacht Arabach na hÉigipte
+Poblacht Arabach na Siria
+Poblacht Choimí
+Poblacht Chónaidhme na Gearmáine
+Poblacht Chónaidhme na Iúgslaive
+Poblacht Chónaidhme Shóisialta na hIúgslaive
+Poblacht Chónaidhmitheach na Brasaíle
+Poblacht Chonnacht
+Poblacht Chósta Ríce
+Poblacht Chracó
+Poblacht Chúba
+Poblacht Dhaonlathach an Chongó
+Poblacht Dhaonlathach an Vítneam
+Poblacht Dhaonlathach Arabach an Sahára
+Poblacht Dhaonlathach Fheidearálach na hAetóipe
+Poblacht Dhaonlathach na Gearmáine
+Poblacht Dhaonlathach Shomálach
+Poblacht Dhoiminiceach
+Poblacht Diobúití
+Poblacht Djibouti
+Poblacht Dúitseach
+Poblacht Éimin
+Poblacht Féinrialaitheach na hAbcáise
+Poblacht Fheidearálach na Gearmáine
+Poblacht Fheidearálach na hIúgslaive
+Poblacht Ghána
+Poblacht Ghenova
+Poblacht Háítí
+Poblacht Hondúras
+Poblacht Iar
+Poblacht Ioslamach na hIaráine
+Poblacht Ioslamach na Pacastáine
+Poblacht Mhailí
+Poblacht Mhálta
+Poblacht Mhósaimbíc
+Poblacht na Bealarúise
+Poblacht na Bolaive
+Poblacht na Cairéile
+Poblacht na Cipire
+Poblacht na Cirgise
+Poblacht na Cóiré
+Poblacht na Colóime
+Poblacht na Corsaice
+Poblacht na Cosaive
+Poblacht na Fionlainne
+Poblacht na Frainc
+Poblacht na Fraince
+Poblacht na Gaimbia
+Poblacht na hAbcáise
+Poblacht na hAfraice Láir
+Poblacht na hAfraice Theas
+Poblacht na hAirméine
+Poblacht na hAlbáine
+Poblacht na hAsarbaiseáine
+Poblacht na hÉireann
+Poblacht na hÉireann an Coimisiún Béaloideasa Éireann
+Poblacht na hIaráice
+Poblacht na hInde
+Poblacht na hIndia
+Poblacht na hIodáile
+Poblacht na hÍsiltíre
+Poblacht na hOstaire
+Poblacht na hÚcráine
+Poblacht na Laitvia
+Poblacht na Liotuáine
+Poblacht na Macadóine
+Poblacht na mBascach
+Poblacht na mBórach
+Poblacht na Moldóive
+Poblacht na Mumhan
+Poblacht na Nígire
+Poblacht na nOileán Filipíneach
+Poblacht na Polainne
+Poblacht na Róimhe
+Poblacht na Rómhánach
+Poblacht na Saimbia
+Poblacht na Seacht nDúiche Aontaithe
+Poblacht na Seice
+Poblacht na Seirbia
+Poblacht na Séiséal
+Poblacht na Síne
+Poblacht na Slóivéine
+Poblacht na Slóvaice
+Poblacht na Súdáine
+Poblacht na Súdáine Theas
+Poblacht na Tatarstáine
+Poblacht na Texas
+Poblacht na Tuirce
+Poblacht na Veinéise
+Poblacht Nicearagua
+Poblacht Nua
+Poblacht Oirthearach Uragua
+Poblacht Pharagua
+Poblacht Plútóin
+Poblacht Rif
+Poblacht Ró
+Poblacht Ruanda
+Poblacht Seirbia
+Poblacht Shácha
+Poblacht Shiarra Leon
+Poblacht Shóisialach Fheidearálach na hIúgslaive
+Poblacht Shóisialach Vítneam
+Poblacht Shóisialta Mhontainéagró
+Poblacht Shóivéadach
+Poblacht Shóivéadach Fheidearálach Shóisialach na Rúise
+Poblacht Shóivéadach na Bealarúise
+Poblacht Shóivéadach na hÚcráine
+Poblacht Shóivéadach na Táidsíceastáine
+Poblacht Shóivéadach na Tras
+Poblacht Shóivéadach Shóisialach na Bealarúise
+Poblacht Shóivéadach Shóisialach na Casacstáine
+Poblacht Shóivéadach Shóisialach na Cirgeastáine
+Poblacht Shóivéadach Shóisialach na hAirméine
+Poblacht Shóivéadach Shóisialach na hAsarbaiseáine
+Poblacht Shóivéadach Shóisialach na hEastóine
+Poblacht Shóivéadach Shóisialach na hÚcráine
+Poblacht Shóivéadach Shóisialach na hÚisbéiceastáine
+Poblacht Shóivéadach Shóisialach na Laitvia
+Poblacht Shóivéadach Shóisialach na Liotuáine
+Poblacht Shóivéadach Shóisialach na Moldáive
+Poblacht Shóivéadach Shóisialach na Seoirsia
+Poblacht Shóivéadach Shóisialach na Táidsíceastáine
+Poblacht Shóivéadach Shóisialach na Tuircméanastáine
+Poblacht Shóivéadach Shóisialtach na hAsarbaiseáine
+Poblacht Shuranam
+Poblacht Singeapór
+Poblacht Texas
+Poblacht Thuaisceart na Cipire
+Poblacht Thúva
+Poblacht Transvaal
+Poblacht Weimar
+Poblacht Weimat
+Poblacht na Buiriáite
+Poblacht na Cailmíce
+Poblacht na hIndia
+Poblacht na Moldóive
+Poblacht na Seisnia
+Poblacht na Tatarstáine
