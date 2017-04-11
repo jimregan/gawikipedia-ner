@@ -598,4 +598,16 @@ Faoin mbliain 1648 bhí <ne type='event'>an Chéad Chogadh Cathartha i Sasana</n
   <rel fbtype='time.event.people_involved' wdprop='P710' trg='Oilibhéar Cromail'/>
 </rels>
 </txt>
+<txt src='https://ga.wikipedia.org/w/index.php?title=Cath_Ph%C3%A1irc_Bosworth&amp;oldid=757046'>
+<fragment>
+Troideadh <ne type='event'>Cath Pháirc Bosworth</ne> ar 22 Lúnasa 1485. Cuireadh deireadh le <ne type='event'>Cogadh na Rósanna</ne> leis an gcath seo, nuair a maraíodh an rí <ne type='person'>Risteard III</ne> agus nuair a cuireadh buaiteoir an chatha, <ne type='person'>Anraí Túdar</ne>, i gcoróin.
+</fragment>
+<rels src='Cath Pháirc Bosworth'>
+  <rel fbtype='time.event.included_in_event' wdprop='P361' trg='Cogadh na Rósanna'/>
+</rels>
+<rels src='Cogadh na Rósanna'>
+  <rel fbtype='time.event.people_involved' wdprop='P710' trg='Risteard III'/>
+  <rel fbtype='time.event.people_involved' wdprop='P710' trg='Anraí Túdar'/>
+</rels>
+</txt>
 </texts>
