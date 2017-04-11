@@ -268,8 +268,11 @@ Abhainn Shuranam
 Abhainn Snake
 Abhainn Sǒngch
 Abhainn Spè
-Abhainn St
 Abhainn Stíc
+Abhainn St. John
+Abhainn St. Joseph
+Abhainn St. Lawrence
+Abhainn St. Mary's
 Abhainn Stour
 Abhainn Suidhe
 Abhainn Suriname
@@ -579,8 +582,11 @@ hAbhainn Shuranam
 hAbhainn Snake
 hAbhainn Sǒngch
 hAbhainn Spè
-hAbhainn St
 hAbhainn Stíc
+hAbhainn St. John
+hAbhainn St. Joseph
+hAbhainn St. Lawrence
+hAbhainn St. Mary's
 hAbhainn Stour
 hAbhainn Suidhe
 hAbhainn Suriname
