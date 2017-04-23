@@ -5,7 +5,7 @@ Banríon Chonnacht
 Banríon Chonnacht Méabh
 Banríon Éilis
 Banríon Eilís II
-Banríon Eilís II na Ríochta Aontaithe Ord Impireacht na Breataine
+Banríon Eilís II na Ríochta Aontaithe
 Banríon Éireann
 Banríon Haváíoch
 Banríon Isabeau
@@ -70,7 +70,6 @@ Bhanríon Áine na Breataine Móire
 Bhanríon Éilís
 Bhanríon Eilís Bowes
 Bhanríon Eilís II
-Bhanríon Eilís II Iúr Cinn Trá
 Bhanríon Henrietta Maria
 Bhanríon Isabella
 Bhanríon Leon
